@@ -18,7 +18,10 @@ As a hotel supervisor with over 10 years of experience in hospitality industry a
 </p> <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="Power bi" /></a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1200px-Microsoft_Azure_Logo.svg.png" width="36" height="36" alt="Azure" />
+</a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="36" height="36" alt="Tableau" />
 </a>
+
 
 
 ### Socials
